@@ -1,0 +1,16 @@
+{
+  "name": "coding-dojo-pacman",
+  "version": "0.0.1",
+  "description": "Coding Dojo: Pacman game",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.8.0"
+  }
+}
